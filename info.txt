@@ -1,0 +1,6 @@
+Vesti is a BEP-20 standard token on the Binance Smart Chain (BSC) network with a total supply of 25 million 
+Vesti Contract Address => 0x9134A4f41839a16d1AD87c6E71b9a025E71EEBD7
+Holding Wallet => 0x8a8B8481cb70aAadC3e24acc6934254044bfAC35
+
+VestiPresale Contract Address => 0xc569cf962A5848BaCC937885A6490E29a902AAd0
+Presale BNB Receiving Wallet => 0x8a8B8481cb70aAadC3e24acc6934254044bfAC35
